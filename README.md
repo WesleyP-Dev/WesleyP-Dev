@@ -6,10 +6,8 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/znezlyn)
 
 ![WP GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyP-Dev&show_icons=true&theme=tokyonight&count_private=true)
-
 ![WP GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=WesleyP-Dev&theme=tokyonight&hide_border=false)<br/>
-![WP GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyP-Dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![WP GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyPDev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![wp](https://github-profile-trophy.vercel.app/?username=WesleyP-Dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## **Algumas linguagens que estou aprendendo e aplicativos que eu uso no meu dia**
