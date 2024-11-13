@@ -28,7 +28,7 @@
 
 ## **Especificações do PC:**
 
-![Processador](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Processador](https://img.shields.io/badge/AMD-Ryzen_7_5700x-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Placa de Vídeo](https://img.shields.io/badge/NVIDIA-RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
